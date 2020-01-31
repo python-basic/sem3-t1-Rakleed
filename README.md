@@ -86,10 +86,10 @@ main()
 a = float(input("Введите 1-ое число: "))
 b = float(input("Введите 2-ое число: "))
 
-print("a + b = ", a+b)
-print("a - b = ", a-b)
-print("a * b = ", a*b)
-print("a / b = ", a/b)
+print("a + b = ", a + b)
+print("a - b = ", a - b)
+print("a * b = ", a * b)
+print("a / b = ", a / b)
 ```
 
 # Вариативная самостоятельная работа № 1
