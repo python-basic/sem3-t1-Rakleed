@@ -18,7 +18,7 @@
 
 print("Hello, World!")
 ```
-![Result of indepworkinvar1-1](https://github.com/python-basic/sem3-t3-Rakleed/blob/master/src/programming-indepworkinvar1-1-result.png)
+![Result of indepworkinvar1-1](https://github.com/python-basic/sem3-t1-Rakleed/blob/master/src/programming-indepworkinvar1-1-result.png)
 
 ### [1.2. Разработка скрипта, вычисляющего сумму первых n-членов арифметической прогрессии.](https://repl.it/@Rakleed/programming-indepworkinvar1-2)
 ```python
@@ -51,7 +51,7 @@ print("Программа считает сумму n-членов арифме�
 
 main()
 ```
-![Result of indepworkinvar1-2](https://github.com/python-basic/sem3-t3-Rakleed/blob/master/src/programming-indepworkinvar1-2-result.png)
+![Result of indepworkinvar1-2](https://github.com/python-basic/sem3-t1-Rakleed/blob/master/src/programming-indepworkinvar1-2-result.png)
 
 ### [1.3. Разработка скрипта, позволяющего вычислить площадь треугольника с помощью формулы Герона.](https://repl.it/@Rakleed/programming-indepworkinvar1-3)
 ```python
@@ -83,7 +83,7 @@ print("Программа считает площадь треугольника
 
 main()
 ```
-![Result of indepworkinvar1-3](https://github.com/python-basic/sem3-t3-Rakleed/blob/master/src/programming-indepworkinvar1-3-result.png)
+![Result of indepworkinvar1-3](https://github.com/python-basic/sem3-t1-Rakleed/blob/master/src/programming-indepworkinvar1-3-result.png)
 
 ### [1.4. Создание сценария, вычисляющего операции сложения, вычитания, умножения, деления для двух операндов.](https://repl.it/@Rakleed/programming-indepworkinvar1-4)
 ```python
@@ -103,7 +103,7 @@ print("a - b = ", a - b)
 print("a * b = ", a * b)
 print("a / b = ", a / b)
 ```
-![Result of indepworkinvar1-4](https://github.com/python-basic/sem3-t3-Rakleed/blob/master/src/programming-indepworkinvar1-4-result.png)
+![Result of indepworkinvar1-4](https://github.com/python-basic/sem3-t1-Rakleed/blob/master/src/programming-indepworkinvar1-4-result.png)
 
 # Вариативная самостоятельная работа № 1
 
